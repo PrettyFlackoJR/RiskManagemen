@@ -1,4 +1,4 @@
-# CAP sap-learning-extension-suite
+# CAP risk-management
 _out
 *.db
 connection.properties
@@ -6,7 +6,6 @@ default-*.json
 gen/
 node_modules/
 target/
-.env
 
 # Web IDE, App Studio
 .che/
@@ -24,7 +23,6 @@ mta_archives/
 
 *.iml
 *.flattened-pom.xml
-
 
 # IDEs
 # .vscode
